@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Welcome_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Welcome_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Welcome_App.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/472922098/Welcome_App.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-137028645/Welcome_App.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/302875059/Welcome_App.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2095467077/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/2095467077/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2095467077/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2095467077/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2095467077/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/2095467077/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
